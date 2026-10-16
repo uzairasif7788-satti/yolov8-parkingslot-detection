@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['free']
+
+roboflow:
+  workspace: uzair-satti
+  project: parking-lot-87aij-ch2cd
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/uzair-satti/parking-lot-87aij-ch2cd/1
